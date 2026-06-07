@@ -49,14 +49,18 @@ st.markdown("## 📌 Project Objectives")
 
 col1, col2 = st.columns(2)
 
+col1, col2 = st.columns(2)
+
 with col1:
     st.markdown("""
     <div style="
         background:#E8F5E9;
         padding:22px;
         border-radius:10px;
-        height:220px;
-        font-size:17px;
+        min-height:220px;
+        font-size:18px;
+        font-weight:600;
+        color:#0F172A;
         line-height:2;">
         ✓ Identify factors causing profit reduction<br>
         ✓ Analyze delivery performance<br>
@@ -71,8 +75,10 @@ with col2:
         background:#E8F5E9;
         padding:22px;
         border-radius:10px;
-        height:220px;
-        font-size:17px;
+        min-height:220px;
+        font-size:18px;
+        font-weight:600;
+        color:#0F172A;
         line-height:2;">
         ✓ Compare market profitability<br>
         ✓ Analyze discount impact<br>

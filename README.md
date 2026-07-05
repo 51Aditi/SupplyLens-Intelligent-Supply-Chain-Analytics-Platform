@@ -1,4 +1,4 @@
-# 📦 Supply Chain Loss Analysis Dashboard
+# 📦 Supply Chain Loss Analysis 
 
 ## 📌 Project Overview
 

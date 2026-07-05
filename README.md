@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-The Supply Chain Loss Analysis Dashboard is an interactive business intelligence application developed using **Python, Streamlit, Plotly, Pandas, and NumPy**. The dashboard analyzes supply chain operations, sales performance, profitability, customer segments, product categories, and delivery efficiency to identify operational bottlenecks and provide actionable business recommendations.
+The Supply Chain Loss Analysis is an interactive business intelligence application developed using **Python, Streamlit, Plotly, Pandas, and NumPy**. The dashboard analyzes supply chain operations, sales performance, profitability, customer segments, product categories, and delivery efficiency to identify operational bottlenecks and provide actionable business recommendations.
 
 The project enables stakeholders to monitor key performance indicators (KPIs), understand business performance across markets, and make data-driven decisions to improve profitability and customer satisfaction.
 
